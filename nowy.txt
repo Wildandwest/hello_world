@@ -1,1 +1,2 @@
 Hello World!
+TO jest wersja edited 1
